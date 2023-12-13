@@ -13,4 +13,5 @@ export const LinkBotao = styled.a`
   padding: 8px;
   display: inline-block;
   cursor: pointer;
+  margin-right: 8px;
 `
