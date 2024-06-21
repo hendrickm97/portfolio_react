@@ -18,6 +18,13 @@ const projetos: Projetos[] = [
   },
   {
     id: 2,
+    title: 'Twitter_X_Clone',
+    description: 'Aplicação web construída com Django',
+    vercel: 'http://henks97.pythonanywhere.com',
+    github: 'https://github.com/hendrickm97/twitter_X_clone'
+  },
+  {
+    id: 3,
     title: 'EPLAY',
     description:
       'Aplicação web construída com ReactJs, onde temos uma loja de jogos eletrônicos',
@@ -25,7 +32,22 @@ const projetos: Projetos[] = [
     github: 'https://github.com/hendrickm97/e-play'
   },
   {
-    id: 3,
+    id: 4,
+    title: 'Bookstore',
+    description: 'Aplicação web construída com Django',
+    vercel: 'https://github.com/hendrickm97/bookstore',
+    github: 'https://github.com/hendrickm97/bookstore'
+  },
+  {
+    id: 5,
+    title: 'Assitente Virtual',
+    description:
+      'Assistente virtual criada com python que atende a comando de voz e por texto. ',
+    vercel: 'https://github.com/hendrickm97/assistente_virtual',
+    github: 'https://github.com/hendrickm97/assistente_virtual'
+  },
+  {
+    id: 6,
     title: 'Lista de Tarefas',
     description:
       'Aplicação web construída com ReactJs, onde temos uma tasklist',
@@ -33,7 +55,15 @@ const projetos: Projetos[] = [
     github: 'https://github.com/hendrickm97/minhas-tarefas'
   },
   {
-    id: 4,
+    id: 7,
+    title: 'Gerenciador de Senhas',
+    description:
+      'Aplicação Python criada para criar, atualizar, deletar e salvar em arquivo txt senhas seguras.',
+    vercel: 'https://minhas-tarefas-bice.vercel.app',
+    github: 'https://github.com/hendrickm97/minhas-tarefas'
+  },
+  {
+    id: 10,
     title: 'Lista de Contatos',
     description:
       'Aplicação web construída com ReactJs, onde temos uma lista com telefone e email para cirar uma agenda de contatos',
@@ -41,7 +71,7 @@ const projetos: Projetos[] = [
     github: 'https://github.com/hendrickm97/agenda_de_contatos'
   },
   {
-    id: 5,
+    id: 8,
     title: 'EBAC Sports',
     description:
       'Aplicação web construída com ReactJs, onde temos uma loja esportiva',
@@ -49,7 +79,7 @@ const projetos: Projetos[] = [
     github: 'https://github.com/hendrickm97/ebac_sports'
   },
   {
-    id: 6,
+    id: 9,
     title: 'PetShop',
     description:
       'Aplicação web construída com Bootstrap, onde temos uma loja que vende produtos e serviços para pets.',
@@ -57,7 +87,7 @@ const projetos: Projetos[] = [
     github: 'https://github.com/hendrickm97/petshot-bootstrap'
   },
   {
-    id: 7,
+    id: 13,
     title: 'Calculadora',
     description:
       'Aplicação web construída com JavaScript, onde temos uma calculadora.',
@@ -65,7 +95,7 @@ const projetos: Projetos[] = [
     github: 'https://github.com/hendrickm97/calculadora'
   },
   {
-    id: 8,
+    id: 14,
     title: 'Jogo da Velha',
     description:
       'Aplicação web construída com JavaScript, onde temos um jogo da velha.',
@@ -73,7 +103,7 @@ const projetos: Projetos[] = [
     github: 'https://github.com/hendrickm97/jogo-da-velha'
   },
   {
-    id: 9,
+    id: 11,
     title: 'Buscador de CEP',
     description:
       'Aplicação web construída com ReactJs, onde temos um input para inserirmos um cep e recebemos de volta as informações relacionadas aquele cep.',
@@ -81,7 +111,7 @@ const projetos: Projetos[] = [
     github: 'https://github.com/hendrickm97/buscadorCep'
   },
   {
-    id: 10,
+    id: 12,
     title: 'Agenda Telefônica',
     description:
       'Aplicação web construída com JavaScript, onde temos uma lista telefônica dinâmica.',
