@@ -59,8 +59,8 @@ const projetos: Projetos[] = [
     title: 'Gerenciador de Senhas',
     description:
       'Aplicação Python criada para criar, atualizar, deletar e salvar em arquivo txt senhas seguras.',
-    vercel: 'https://minhas-tarefas-bice.vercel.app',
-    github: 'https://github.com/hendrickm97/minhas-tarefas'
+    vercel: 'https://github.com/hendrickm97/gerenciador_de_senha',
+    github: 'https://github.com/hendrickm97/gerenciador_de_senha'
   },
   {
     id: 10,
